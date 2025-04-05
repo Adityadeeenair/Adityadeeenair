@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **adidn567@gmai.com**
 
-- ⚡ Fun fact **I write better code after a strong cup of coffee**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aditya-d-nair-959762330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abc" height="30" width="40" /></a>
