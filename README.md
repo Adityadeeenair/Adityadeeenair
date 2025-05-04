@@ -1,23 +1,41 @@
-![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
-<h1 align="center">Hi 👋, I'm Aditya Nair</h1>
-<h3 align="center">Tech Enthusiast | On a Journey to Become a Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://framerusercontent.com/images/4F8IprBrbZX2xjuqqjLv95nAE.gif">
+<h1 align="center">Hi there, I'm Aditya Nair 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adityadeenair&label=Profile%20views&color=0e75b6&style=flat" alt="adityadeenair" /> </p>
-
-- 💬 Ask me about **Python, SQL , C++**
-
-- 📫 How to reach me **adidn567@gmai.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/aditya-d-nair-959762330/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abc" height="30" width="40" /></a>
-<a href="https://leetcode.com/profile/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abcdef" height="30" width="40" /></a>
+<p align="center">
+  Aspiring Software Developer | CSE Student | Tech Enthusiast
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adityadeenair&show_icons=true&locale=en" alt="adityadeenair" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityadeenair&" alt="adityadeenair" /></p>
+- 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering**
+- 💡 I enjoy solving problems, building projects, and learning new technologies
+- 🌱 Currently learning: **C++**, **Data Structures**, and **Web Development**
+- 🚀 Goals: Contribute to open source and build impactful projects
+- 📬 Reach me at: **adityadeenair@gmail.com** | [LinkedIn](https://www.linkedin.com/in/aditya-d-nair-959762330/)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  
+  ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityanair&show_icons=true&theme=gruvbox" height="180">
+</p>
+
+---
+
+<p align="center">Thanks for stopping by! 😊</p>
