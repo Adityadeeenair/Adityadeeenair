@@ -12,7 +12,8 @@
 - 💡 I enjoy solving problems, building projects, and learning new technologies
 - 🌱 Currently learning: **C++**, **Data Structures**, and **Web Development**
 - 🚀 Goals: Contribute to open source and build impactful projects
-- 📬 Reach me at: **adityadeenair@gmail.com** | [LinkedIn](https://www.linkedin.com/in/aditya-d-nair-959762330/)
+- 📬 Reach me at: **adityadeenair@gmail.com**  
+- 💻 Linedin: 🔗 [LinkedIn](https://www.linkedin.com/in/aditya-d-nair-959762330/)
 
 ---
 
@@ -22,8 +23,10 @@
   
   ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Database](https://img.shields.io/badge/Database-4DB33D?style=for-the-badge&logo=databricks&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
