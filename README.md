@@ -29,6 +29,9 @@
   ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Database](https://img.shields.io/badge/Database-4DB33D?style=for-the-badge&logo=databricks&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+
 
 </div>
 
