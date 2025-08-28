@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Aditya Nair 👋</h1>
 
 <p align="center">
-  Aspiring Software Developer | CSE Undergrad | Tech Enthusiast
+  Aspiring Software Developer |  CSE Undergrad  | Tech Enthusiast
 </p>
 
 ---
