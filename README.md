@@ -32,8 +32,4 @@
 
 ---
 
-### 🏆 SUMMARY
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=adityadeeenair&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
-</p>
