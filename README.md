@@ -12,9 +12,12 @@
 - 🌱 Currently learning **Java** and **Machine Learning**
 - 🎯 Interested in **Software Development** and **Data-driven systems**
 
-### 📫 Connect With Me
-- 📧 **Email:** adityadeenair@gmail.com  
-- 💼 **LinkedIn:** [Aditya D Nair](https://www.linkedin.com/in/aditya-d-nair-959762330/)
+<hr/>
+
+### 📫 Connect With Me At
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-nair-959762330/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityadeenair@gmail.com)
+- [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/Aditya__Nair)
 
 <hr/>
 
@@ -32,8 +35,6 @@
 ![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat)
 
-
-
 <hr/>
 
 ## 🚀 What I'm Working On
@@ -43,6 +44,8 @@
 - Improving **problem-solving & clean code practices**
 
 <hr/>
+
+
 
 
 
