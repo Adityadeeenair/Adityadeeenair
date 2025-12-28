@@ -45,9 +45,13 @@
 
 <hr/>
 
+## 📈 Contributions
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adityadeeenair&theme=github_dark" />
+</p>
 
-
+<hr/>
 
 <p align="center">
   Thanks for visiting my profile , feel free to explore my repositories 🚀
