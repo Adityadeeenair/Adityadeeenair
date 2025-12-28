@@ -1,35 +1,51 @@
 <h1 align="center">Hi there, I'm Aditya Nair 👋</h1>
 
 <p align="center">
-  Aspiring Software Developer | CSE Undergrad | Tech Enthusiast
+  <b>Aspiring Software Developer</b> • <b>CSE Undergrad</b> • <b>Tech Enthusiast</b>
 </p>
 
----
+<hr/>
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
+- 🎓 Pursuing **B.Tech in Computer Science and Engineering**
+- 💡 Love solving problems, building projects, and learning new tech
+- 🌱 Currently learning **Java** and **Machine Learning**
+- 🎯 Interested in **Software Development** and **Data-driven systems**
 
-- 🎓 I'm currently pursuing **B.Tech in Computer Science and Engineering**.
-- 💡 I enjoy solving problems, building projects, and learning new technologies.
-- 🌱 Currently learning: **Java** and **Machine Learning**.
-- 📫 How to reach me: 
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="16" style="vertical-align:middle;"/> **adityadeenair@gmail.com**
-  - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" style="vertical-align:middle;"/> **[LinkedIn](https://www.linkedin.com/in/aditya-d-nair-959762330/)**
+### 📫 Connect With Me
+- 📧 **Email:** adityadeenair@gmail.com  
+- 💼 **LinkedIn:** [Aditya D Nair](https://www.linkedin.com/in/aditya-d-nair-959762330/)
 
----
+<hr/>
 
-### 🛠️ Tech Stack
+## 🛠️ Skills
+
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Scikit--Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat)
+
+
+
+<hr/>
+
+## 🚀 What I'm Working On
+- Strengthening **Data Structures & Algorithms**
+- Building **Java & Python projects**
+- Exploring **Machine Learning fundamentals**
+- Improving **problem-solving & clean code practices**
+
+<hr/>
+
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <img src="https://img.shields.io/badge/Database-4DB33D?style=for-the-badge&logo=databricks&logoColor=white" alt="Database"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+  Thanks for visiting my profile , feel free to explore my repositories 🚀
 </p>
-
----
-
-
