@@ -48,5 +48,5 @@
 
 
 <p align="center">
-  Thanks for visiting my profile , feel free to explore my repositories 🚀
+  Thanks for visiting my profile , feel free to explore my repositories :D
 </p>
