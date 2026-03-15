@@ -6,7 +6,7 @@
 
 <hr/>
 
-## 👨‍💻 About Me
+##  About Me
 - 🎓 Pursuing **B.Tech in Computer Science and Engineering**
 - 💡 Love solving problems, building projects, and learning new tech
 - 🌱 Currently learning **Java** and **Machine Learning**
@@ -14,14 +14,14 @@
 
 <hr/>
 
-### 📫 Connect With Me At
+###  Connect With Me At
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-nair-959762330/)
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:adityadeenair@gmail.com)
 - [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/Aditya__Nair)
 
 <hr/>
 
-## 🛠️ Skills
+##  Skills
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
@@ -37,7 +37,7 @@
 
 <hr/>
 
-## 🚀 What I'm Working On
+##  What I'm Working On
 - Strengthening **Data Structures & Algorithms**
 - Building **Java & Python projects**
 - Exploring **Machine Learning fundamentals**
