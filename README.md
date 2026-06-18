@@ -14,7 +14,7 @@ B.Tech Computer Science and Engineering · CMR University · Bengaluru
 
 ## About Me:
 
-B.Tech CS student at CMR University (CGPA: 9.12), interested in machine learning and building things that work with data. Most of my projects are in Python. I've worked on demand forecasting, fake news detection, and a geospatial web tool. Currently focused on getting stronger at algorithms and ML fundamentals.
+B.Tech CS student at CMR University, interested in machine learning and building things that work with data. Most of my projects are in Python. I've worked on demand forecasting, fake news detection, and a geospatial web tool. Currently focused on getting stronger at algorithms and ML fundamentals.
 
 ---
 
