@@ -1,9 +1,23 @@
-<svg viewBox="0 0 991 269" xmlns="http://www.w3.org/2000/svg">
-<rect width="991" height="269" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<svg viewBox="0 0 991 309" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="txtGlow" x="-50%" y="-50%" width="200%" height="200%">
+  <feGaussianBlur stdDeviation="1.2" result="blur"/>
+  <feFlood flood-color="#58a6ff" flood-opacity="0.85" result="color"/>
+  <feComposite in="color" in2="blur" operator="in" result="glowColor"/>
+  <feMerge><feMergeNode in="glowColor"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="boxGlow" x="-20%" y="-20%" width="140%" height="140%">
+  <feGaussianBlur stdDeviation="3" result="blur"/>
+  <feFlood flood-color="#58a6ff" flood-opacity="0.35" result="color"/>
+  <feComposite in="color" in2="blur" operator="in" result="glowColor"/>
+  <feMerge><feMergeNode in="glowColor"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect width="991" height="309" rx="14" fill="#0d1117" stroke="#58a6ff" stroke-width="1.3" filter="url(#boxGlow)"/>
 <circle cx="26" cy="26" r="6" fill="#ff5f56"/>
 <circle cx="46" cy="26" r="6" fill="#ffbd2e"/>
 <circle cx="66" cy="26" r="6" fill="#27c93f"/>
-<text x="495.5" y="31" text-anchor="middle" font-family="SF Mono, Consolas, monospace" font-size="13" fill="#8b949e">aditya@github: ~/contributions --graph</text>
+<text x="495.5" y="31" text-anchor="middle" font-family="SF Mono, Consolas, monospace" font-size="13" fill="#58a6ff" filter="url(#txtGlow)">aditya@github: ~/contributions --graph</text>
 <line x1="0" y1="46" x2="991" y2="46" stroke="#21262d" stroke-width="1"/>
 <text x="50" y="50" font-family="SF Mono, Consolas, monospace" font-size="12" fill="#8b949e">Jul</text>
 <text x="67" y="50" font-family="SF Mono, Consolas, monospace" font-size="12" fill="#8b949e">Aug</text>
@@ -399,6 +413,10 @@
 <rect x="843" y="188" width="13" height="13" rx="2" fill="#39d353"/>
 <text x="869" y="199" font-family="SF Mono, Consolas, monospace" font-size="12" fill="#8b949e">More</text>
 <line x1="0" y1="219" x2="991" y2="219" stroke="#21262d" stroke-width="1"/>
-<text x="40" y="254" font-family="SF Mono, Consolas, monospace" font-size="16" fill="#3fb950" font-weight="800">135</text>
-<text x="70" y="254" font-family="SF Mono, Consolas, monospace" font-size="16" fill="#c9d1d9">contributions in the last year</text>
+<text x="40" y="254" font-family="SF Mono, Consolas, monospace" font-size="16" fill="#3fb950" filter="url(#txtGlow)" font-weight="800">135</text>
+<text x="72" y="254" font-family="SF Mono, Consolas, monospace" font-size="16" fill="#c9d1d9">contributions in the last year</text>
+<text x="641" y="254" font-family="SF Mono, Consolas, monospace" font-size="14" fill="#8b949e">2025-07-20 → 2026-07-19</text>
+<text x="40" y="288" font-family="SF Mono, Consolas, monospace" font-size="14" fill="#c9d1d9">best day </text>
+<text x="140" y="288" font-family="SF Mono, Consolas, monospace" font-size="14" fill="#f0b72f" filter="url(#txtGlow)" font-weight="800">44</text>
+<text x="170" y="288" font-family="SF Mono, Consolas, monospace" font-size="14" fill="#c9d1d9"> on 2025-08-13</text>
 </svg>
