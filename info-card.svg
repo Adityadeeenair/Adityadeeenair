@@ -1,0 +1,37 @@
+<svg viewBox="0 0 900 640" xmlns="http://www.w3.org/2000/svg">
+<rect width="900" height="640" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+<circle cx="28" cy="28" r="6" fill="#ff5f56"/>
+<circle cx="50" cy="28" r="6" fill="#ffbd2e"/>
+<circle cx="72" cy="28" r="6" fill="#27c93f"/>
+<text x="450.0" y="33" text-anchor="middle" font-family="SF Mono, Consolas, monospace" font-size="13" fill="#8b949e">aditya@github: ~$ neofetch</text>
+<line x1="0" y1="52" x2="900" y2="52" stroke="#21262d" stroke-width="1"/>
+<text x="40" y="100" font-family="SF Mono, Consolas, monospace" font-size="20" font-weight="800" fill="#58a6ff">aditya</text>
+<text x="135" y="100" font-family="SF Mono, Consolas, monospace" font-size="20" font-weight="800" fill="#c9d1d9">@github</text>
+<line x1="40" y1="128" x2="860" y2="128" stroke="#21262d" stroke-width="1"/>
+<text x="40" y="164" font-family="SF Mono, Consolas, monospace" font-size="16" font-weight="700" fill="#e6a23c">Current</text>
+<text x="210" y="164" font-family="SF Mono, Consolas, monospace" font-size="16" fill="#c9d1d9">B.Tech CSE Student @ CMR University</text>
+<text x="40" y="196" font-family="SF Mono, Consolas, monospace" font-size="16" font-weight="700" fill="#e6a23c">CGPA</text>
+<text x="210" y="196" font-family="SF Mono, Consolas, monospace" font-size="16" fill="#c9d1d9">9.02, expected 2028</text>
+<text x="40" y="228" font-family="SF Mono, Consolas, monospace" font-size="16" font-weight="700" fill="#e6a23c">Location</text>
+<text x="210" y="228" font-family="SF Mono, Consolas, monospace" font-size="16" fill="#c9d1d9">Bengaluru, India</text>
+<text x="40" y="272" font-family="SF Mono, Consolas, monospace" font-size="17" font-weight="800" fill="#58a6ff">— Stack</text>
+<line x1="130" y1="266" x2="860" y2="266" stroke="#21262d" stroke-width="1"/>
+<text x="40" y="306" font-family="SF Mono, Consolas, monospace" font-size="16" font-weight="700" fill="#e6a23c">Languages</text>
+<text x="210" y="306" font-family="SF Mono, Consolas, monospace" font-size="16" fill="#c9d1d9">Python, C, Java, SQL</text>
+<text x="40" y="338" font-family="SF Mono, Consolas, monospace" font-size="16" font-weight="700" fill="#e6a23c">Web</text>
+<text x="210" y="338" font-family="SF Mono, Consolas, monospace" font-size="16" fill="#c9d1d9">HTML, CSS, JavaScript</text>
+<text x="40" y="370" font-family="SF Mono, Consolas, monospace" font-size="16" font-weight="700" fill="#e6a23c">Libraries</text>
+<text x="210" y="370" font-family="SF Mono, Consolas, monospace" font-size="16" fill="#c9d1d9">Pandas, NumPy, Scikit-learn, NLTK</text>
+<text x="40" y="402" font-family="SF Mono, Consolas, monospace" font-size="16" font-weight="700" fill="#e6a23c">Tools</text>
+<text x="210" y="402" font-family="SF Mono, Consolas, monospace" font-size="16" fill="#c9d1d9">Git, GitHub, Streamlit, Docker, Linux</text>
+<text x="40" y="434" font-family="SF Mono, Consolas, monospace" font-size="16" font-weight="700" fill="#e6a23c">Concepts</text>
+<text x="210" y="434" font-family="SF Mono, Consolas, monospace" font-size="16" fill="#c9d1d9">DSA, ML, Time Series, Geospatial Clustering</text>
+<text x="40" y="478" font-family="SF Mono, Consolas, monospace" font-size="17" font-weight="800" fill="#58a6ff">— Projects</text>
+<line x1="150" y1="472" x2="860" y2="472" stroke="#21262d" stroke-width="1"/>
+<circle cx="45" cy="506" r="3.5" fill="#3fb950"/>
+<text x="60" y="512" font-family="SF Mono, Consolas, monospace" font-size="15" fill="#c9d1d9">Adaptive Demand Forecasting — 906k records, WMAPE ≈ 0.1117</text>
+<circle cx="45" cy="536" r="3.5" fill="#3fb950"/>
+<text x="60" y="542" font-family="SF Mono, Consolas, monospace" font-size="15" fill="#c9d1d9">Sanchaara AI — 115.4k violations → 120 ranked hotspots</text>
+<circle cx="45" cy="566" r="3.5" fill="#3fb950"/>
+<text x="60" y="572" font-family="SF Mono, Consolas, monospace" font-size="15" fill="#c9d1d9">Fake News Detection — TF-IDF + LogReg, 91% accuracy</text>
+</svg>
