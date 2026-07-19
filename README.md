@@ -1,54 +1,44 @@
 <div align="center">
 
+<table>
+<tr>
+<td valign="top"><img src="./github-ascii.svg" width="390" alt="GitHub logo ASCII art" /></td>
+<td valign="top"><img src="./info-card.svg" width="510" alt="Aditya's profile card" /></td>
+</tr>
+</table>
+
 # Aditya D Nair
 
-B.Tech Computer Science and Engineering · CMR University · Bengaluru
+B.Tech CSE Student · ML/Data · Builder
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-d-nair-959762330/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadeenair@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Aditya__Nair)
+[![GitHub](https://img.shields.io/badge/GitHub-Adityadeeenair-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adityadeeenair)
+[![Email](https://img.shields.io/badge/Email-adityadeenair%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityadeenair@gmail.com)
 
 </div>
 
----
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
 
-## About Me:
+## Projects
 
-B.Tech CS student at CMR University, interested in machine learning and building things that work with data. Most of my projects are in Python. I've worked on demand forecasting, fake news detection, and a geospatial web tool. Currently focused on getting stronger at algorithms and ML fundamentals.
+**Adaptive Demand Forecasting** — Python, Pandas, XGBoost, LightGBM
+Retail demand forecasting pipeline on 906k sales records across 500 products. Engineered lag/rolling features, trained Random Forest / XGBoost / LightGBM, achieving WMAPE ≈ 0.1117.
+`GitHub` · `Live Demo`
 
----
+**Sanchaara AI — Traffic Enforcement Intelligence Platform** — Python, JavaScript, Streamlit, Leaflet.js, DBSCAN
+Full-stack decision support system for Bengaluru Traffic Police (Flipkart Gridlock Hackathon 2.0, Round 2). DBSCAN clustering turns 115,400 parking violation records into 120 ranked enforcement hotspots, with a weighted impact-scoring model and English/Kannada localized dashboard.
+`GitHub` · `Live Demo`
 
-## Tech Stack:
+**Fake News Detection System** — Python, Scikit-learn, NLTK, TF-IDF
+NLP classification pipeline: TF-IDF vectorization, stopword removal, stemming, Logistic Regression — 91% prediction accuracy.
+`GitHub`
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+## Leadership
 
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-154F3C?style=for-the-badge)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+**Salesforce Agentforce Workshop — ID8NXT** — Proctored a Salesforce Agentforce workshop at Cambridge Institute of Technology, guiding participants building AI agents for workflow automation.
 
----
+## Certifications
 
-## Currently:
-
-- Strengthening data structures and algorithms
-- Exploring machine learning concepts and applications  
-- Diving deeper into time series and forecasting
-
----
-
-## Certifications:
-
-- Python Essentials, Cisco Networking Academy (2024)
-- GitHub Foundations, Credly (2024)
-- SQL Bootcamp, Udemy (2024)
-- Deloitte Australia, Technology Job Simulation (2024)
+- GitHub Foundations — Credly (2024)
+- Python Essentials — Cisco Networking Academy (2024)
+- SQL Bootcamp — Udemy (2024)
+- Deloitte Technology Job Simulation — Forage (2026)
