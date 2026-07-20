@@ -19,7 +19,6 @@
 <circle cx="66" cy="26" r="6" fill="#27c93f"/>
 <text x="495.5" y="31" text-anchor="middle" font-family="SF Mono, Consolas, monospace" font-size="13" fill="#58a6ff" filter="url(#txtGlow)">aditya@github: ~/contributions --graph</text>
 <line x1="0" y1="46" x2="991" y2="46" stroke="#21262d" stroke-width="1"/>
-<text x="50" y="50" font-family="SF Mono, Consolas, monospace" font-size="12" fill="#8b949e">Jul</text>
 <text x="84" y="50" font-family="SF Mono, Consolas, monospace" font-size="12" fill="#8b949e">Aug</text>
 <text x="152" y="50" font-family="SF Mono, Consolas, monospace" font-size="12" fill="#8b949e">Sep</text>
 <text x="220" y="50" font-family="SF Mono, Consolas, monospace" font-size="12" fill="#8b949e">Oct</text>
